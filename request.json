@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "text": "Reply with OK"
+        }
+      ]
+    }
+  ],
+  "inferenceConfig": {
+    "maxTokens": 10
+  }
+}
